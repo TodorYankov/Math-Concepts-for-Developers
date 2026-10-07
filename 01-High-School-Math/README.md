@@ -70,4 +70,32 @@ implemented, visualized, and tested with Python.
 The complete solutions, explanations, formulas, code, and visualizations
 are available in:
 
-`High-School-Math-Exercise.ipynb`
+[Open High-School Math Exercise](./High-School-Math-Exercise.ipynb)
+
+## References & Learning Resources
+
+The exercises in this section were developed as part of the
+**Math Concepts for Developers** course and supplemented with the
+following documentation and learning resources:
+
+- [Python Documentation](https://docs.python.org/3/)
+- [NumPy Documentation](https://numpy.org/doc/stable/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/)
+- [SymPy Documentation](https://docs.sympy.org/latest/)
+- [Khan Academy — Algebra](https://www.khanacademy.org/math/algebra)
+- [Khan Academy — Algebra 2](https://www.khanacademy.org/math/algebra2)
+- [Wolfram MathWorld](https://mathworld.wolfram.com/)
+- [Wikipedia — Huffman Coding](https://en.wikipedia.org/wiki/Huffman_coding)
+
+### Notes
+
+The solutions, Python implementations, mathematical explanations and
+visualizations in this repository were written and tested as part of my
+practical work for the course.
+
+External resources were used for studying mathematical concepts,
+checking definitions and consulting library documentation.
+
+---
+
+**Status:** ✓ Completed
